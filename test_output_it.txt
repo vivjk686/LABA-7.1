@@ -1,0 +1,10 @@
+===============================================
+  RUNNING UNIT TESTS FOR LAB 7.1 IT (VAR 32)  
+===============================================
+Testing Criterion()... PASSED!
+Testing Calc()... PASSED!
+Testing Change()... PASSED!
+Testing Sort()... PASSED!
+===============================================
+  ALL 4 UNIT TESTS COMPLETED SUCCESSFULLY!    
+===============================================

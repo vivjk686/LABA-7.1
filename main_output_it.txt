@@ -1,0 +1,35 @@
+================================================================
+  Laboratorna robota No 7.1 (Iterative method)
+  Student: Shakh Vladyslav, Group: RI-13, Variant: 32
+  Matrix dimension: 7 x 9, Range: [-12, 37]
+  Criterion: all positive OR not multiple of 3
+================================================================
+Pochatkova matrytsia:
+   31   30   11   14   29  -10   27   15    2
+   -2   -9    9   21   32   32    2   17   25
+   25    3   25    3   -9   30    8   -8   17
+   19  -10    8   31   -5   -5   26   27   22
+   36   -3   -7    0   21   -4   -5   30   11
+    9    1   31   -4   33   29   -1   14  -12
+   11    1   10   29   29   -1    6   12   -7
+
+Vporiadkovana matrytsia (za kliuchamy -> -> ->):
+  -10    2   11   14   15   27   29   30   31
+   32   25    9   21   17    2   32   -9   -2
+   30   17   25    3   -8    8   -9    3   25
+   -5   22    8   31   27   26   -5  -10   19
+   -4   11   -7    0   30   -5   21   -3   36
+   29  -12   31   -4   14   -1   33    1    9
+   -1   -7   10   29   12    6   29    1   11
+
+Suma (S)     = 785
+Kilkist (k)  = 58
+Modyfikovana matrytsia (elementy kryteriiu zamineno nulyamy):
+    0    0    0    0    0    0    0    0    0
+    0    0    0    0    0    0    0   -9    0
+    0    0    0    0    0    0   -9    0    0
+    0    0    0    0    0    0    0    0    0
+    0    0    0    0    0    0    0   -3    0
+    0  -12    0    0    0    0    0    0    0
+    0    0    0    0    0    0    0    0    0
+

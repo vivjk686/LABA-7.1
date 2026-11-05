@@ -1,0 +1,10 @@
+==========================================
+  RUNNING UNIT TESTS FOR LAB 7.1 (VAR 32) 
+==========================================
+Testing Criterion()... PASSED!
+Testing CalcRows()... PASSED!
+Testing ChangeCols()... PASSED!
+Testing SortCols()... PASSED!
+==========================================
+  ALL 4 UNIT TESTS COMPLETED SUCCESSFULLY! 
+==========================================
